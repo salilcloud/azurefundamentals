@@ -44,4 +44,3 @@ terraform.rc
 # planout
 
 .setupcreds.sh
-.terraform.lock.hcl
